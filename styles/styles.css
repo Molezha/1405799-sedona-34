@@ -16,6 +16,15 @@
 
 body {
   font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
   font-size: 18px;
   line-height: 21px;
+  color: #333333;
+}
+
+.welcome {
+  background-image: url("../images/index/background-welcome-foto.jpg");
+  width: 1200px;
+  height: 485px;
 }
